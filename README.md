@@ -1,4 +1,4 @@
-# plenary_record_parser
+# plenary record parser 
 Parsers for the plenary records of German state parliaments covering two legislative periods between 2008-2018.
 
 # Pipeline
